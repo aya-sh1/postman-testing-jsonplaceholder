@@ -1,7 +1,7 @@
 # postman-testing-jsonplaceholder
 
 ## 📌 Project Overview
-This project demonstrates automated API testing for [JSONPlaceholder] using Postman. 
+This project demonstrates automated API testing for JSONPlaceholder using Postman. 
 
 ## 🔍 Test Coverage
 - **Functional:** Schema validation, data integrity, and status codes.
